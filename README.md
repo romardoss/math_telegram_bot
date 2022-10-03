@@ -1,0 +1,2 @@
+This is a telegram bot which helps with math by using math api service 
+you can download main_bot.exe and check how it`s working using the link https://t.me/RomardossBot or tag @RomardossBot in telegram

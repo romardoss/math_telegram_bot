@@ -1,0 +1,5 @@
+/build
+/dist
+token_bot.py
+main_bot.spec
+/__pycache__
